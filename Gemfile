@@ -39,6 +39,7 @@ group :development, :test do
   gem 'faker'
   gem 'launchy'
   gem 'rexml'
+  gem 'rspec-rails'
 end
 
 group :development do
